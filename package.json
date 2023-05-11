@@ -12,7 +12,7 @@
   "dependencies": {
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
-    "mongoose": "^7.1.1"
+    "mongoose": "^6.3.8"
   },
   "repository": "git@github.com:vmsfigueredo/cse341.git"
 }
